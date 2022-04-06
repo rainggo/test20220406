@@ -13,7 +13,7 @@ message HelloReply {
 }
 
 service Cccc {
-    rpc Hello1 (HelloRequest) returns (HelloReply);
-    rpc Hello2 (HelloRequest) returns (HelloReply);
+    rpc Hello11 (HelloRequest) returns (HelloReply);
+    rpc Hello22 (HelloRequest) returns (HelloReply);
 }
 
